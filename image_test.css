@@ -1,0 +1,28 @@
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote, a, em, img, ul, li,article, aside, canvas, footer, header, menu, nav, section, summary, audio, video {	
+	margin: 0;	
+	padding: 0;	
+	border: 0;	
+	font-size: 100%;	
+	font: inherit;	
+	vertical-align: baseline;
+}
+/*a note*/
+#theImage{
+    width:70%;
+    height:500px;
+    background:url('ocean.jpg') #0f0;
+    background-repeat:no-repeat;
+    border-radius:30px 20px 10px 5px;
+    box-shadow: #f00 12px 12px 3px 2px;
+    filter:sepia(90%);
+    background-blend-mode: lighten;
+    
+    
+    
+    
+    
+}
+
+
+
+
